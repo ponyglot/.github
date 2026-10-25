@@ -1,8 +1,8 @@
-<p align="center" width="80%">
+<h3 align="center">
   One translation layer for <b>django CMS</b>, <b>Wagtail</b>, <b>django-parler</b> and
   <b>django-modeltranslation</b>, with one glossary, one translation memory and nothing
   published without an editor's decision.
-</p>
+</h3>
 
 <p align="center">
   <a href="https://ponyglot.app/#waitlist"><b>Join early access →</b></a>
