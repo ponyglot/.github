@@ -1,5 +1,3 @@
-<h1 align="center">Your Django stack, fluent in every language.</h1>
-
 <p align="center">
   One translation layer for <b>django CMS</b>, <b>Wagtail</b>, <b>django-parler</b> and
   <b>django-modeltranslation</b>, with one glossary, one translation memory and nothing
