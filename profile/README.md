@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://ponyglot.app"><img src="https://ponyglot.app/assets/img/logo.svg" alt="Ponyglot" height="64"></a>
-</p>
-
-<h3 align="center">Your Django stack, fluent in every language.</h3>
+<h1 align="center">Your Django stack, fluent in every language.</h1>
 
 <p align="center">
   One translation layer for <b>django CMS</b>, <b>Wagtail</b>, <b>django-parler</b> and
